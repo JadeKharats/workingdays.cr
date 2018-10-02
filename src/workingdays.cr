@@ -1,6 +1,5 @@
-# TODO: Write documentation for `Workingdays`
-module Workingdays
-  VERSION = "0.1.0"
-
-  # TODO: Put your code here
+struct Time
+ def weekend?
+   ![1,2,3,4,5].includes?(day_of_week.to_i)
+ end
 end
