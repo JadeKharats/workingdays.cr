@@ -10,3 +10,4 @@ install:
 script:
   - crystal spec
   - bin/ameba
+  - bin/crystal_coverage spec/workingdays_spec.cr 
