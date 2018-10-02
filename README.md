@@ -30,4 +30,4 @@ require "workingdays"
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) Jade D. Kharats - creator, maintainer
+- [Jade Kharats](https://github.com/JadeKharats) Jade D. Kharats - creator, maintainer
