@@ -1,0 +1,9 @@
+name: workingdays
+version: 0.1.0
+
+authors:
+  - Jade D. Kharats <jade.kharats@gmail.com>
+
+crystal: 0.26.1
+
+license: MIT
