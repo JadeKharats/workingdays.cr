@@ -11,3 +11,4 @@ script:
   - crystal spec
   - crystal tool format spec src --check
   - bin/ameba
+  - bin/crystal-coverage spec/workingdays_spec.cr

@@ -9,5 +9,7 @@ crystal: 0.26.1
 license: MIT
 
 development_dependencies:
+  coverage:
+    github: JadeKharats/crystal-coverage
   ameba:
     github: veelenga/ameba
