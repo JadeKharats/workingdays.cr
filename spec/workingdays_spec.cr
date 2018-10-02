@@ -1,9 +1,7 @@
 require "./spec_helper"
 
 describe Workingdays do
-  # TODO: Write tests
-
-  it "works" do
-    false.should eq(true)
+  it "has a version" do
+    Workingdays::VERSION.should eq("0.1.0")
   end
 end
