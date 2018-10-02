@@ -1,6 +1,8 @@
 # workingdays
 
-TODO: Write a description here
+WorkingDays is a library that lets you know if a given date is worked or not.
+
+The library takes into account the days of the week and holidays
 
 ## Installation
 
@@ -9,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   workingdays:
-    github: your-github-user/workingdays
+    github: JadeKharats/workingdays
 ```
 
 ## Usage
@@ -17,12 +19,6 @@ dependencies:
 ```crystal
 require "workingdays"
 ```
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
